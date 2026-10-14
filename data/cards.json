@@ -1,0 +1,132 @@
+{
+  "updated": "2026-10-13",
+  "currencies": {
+    "mr": {
+      "label": "Amex Membership Rewards",
+      "def": 1.6,
+      "unit": "x",
+      "hint": "About 1.6¢ when transferred to airlines. Only 0.6¢ if you use them as a statement credit."
+    },
+    "aa": {
+      "label": "American AAdvantage miles",
+      "def": 1.5,
+      "unit": "x",
+      "hint": "Typical value when booked for flights."
+    },
+    "tb": {
+      "label": "JetBlue TrueBlue points",
+      "def": 1.3,
+      "unit": "x",
+      "hint": "Roughly fixed, since awards are priced off the cash fare."
+    },
+    "cash": {
+      "label": "Cash back",
+      "def": 1,
+      "unit": "%",
+      "hint": "Always 1¢. Not editable.",
+      "fixed": true
+    }
+  },
+  "cards": [
+    {
+      "id": "amex",
+      "name": "Amex Gold",
+      "full": "American Express Gold Card",
+      "cur": "mr",
+      "net": "amex",
+      "grad": "linear-gradient(135deg,#D9B66A,#A47F33 60%,#7C5E22)",
+      "rates": {
+        "dining": 4,
+        "grocery": 4,
+        "aa": 3,
+        "jetblue": 3,
+        "airline": 3,
+        "other": 1
+      }
+    },
+    {
+      "id": "citi",
+      "name": "Citi AAdvantage Platinum Select",
+      "full": "Citi / AAdvantage Platinum Select",
+      "cur": "aa",
+      "net": "mc",
+      "grad": "linear-gradient(135deg,#A6B2C3,#61728A 60%,#3E4B5E)",
+      "rates": {
+        "dining": 2,
+        "gas": 2,
+        "aa": 2,
+        "other": 1
+      }
+    },
+    {
+      "id": "jetblue",
+      "name": "JetBlue Plus",
+      "full": "JetBlue card by Barclays",
+      "cur": "tb",
+      "net": "mc",
+      "grad": "linear-gradient(135deg,#2A62D6,#123C93 60%,#0A2463)",
+      "variants": {
+        "plus": {
+          "name": "JetBlue Plus",
+          "rates": {
+            "jetblue": 6,
+            "dining": 2,
+            "grocery": 2,
+            "other": 1
+          }
+        },
+        "basic": {
+          "name": "JetBlue Card",
+          "rates": {
+            "jetblue": 3,
+            "dining": 2,
+            "grocery": 2,
+            "other": 1
+          }
+        }
+      },
+      "rates": null
+    },
+    {
+      "id": "discover",
+      "name": "Discover it Student",
+      "full": "Discover it Student Cash Back",
+      "cur": "cash",
+      "net": "discover",
+      "grad": "linear-gradient(135deg,#F59A3A,#DB6714 60%,#A9470A)",
+      "rates": {
+        "other": 1
+      },
+      "rotating": [
+        {
+          "q": "Q4 2026",
+          "start": "2026-10-01",
+          "end": "2026-12-31",
+          "cats": [
+            "dining",
+            "entertainment",
+            "utilities"
+          ],
+          "catsText": "restaurants, entertainment and utilities",
+          "rate": 5,
+          "cap": 1500
+        }
+      ]
+    },
+    {
+      "id": "savor",
+      "name": "Capital One SavorOne",
+      "full": "Capital One Savor(One)",
+      "cur": "cash",
+      "net": "mc",
+      "grad": "linear-gradient(135deg,#4A4A52,#2A2A31 60%,#17171C)",
+      "rates": {
+        "dining": 3,
+        "grocery": 3,
+        "entertainment": 3,
+        "streaming": 3,
+        "other": 1
+      }
+    }
+  ]
+}

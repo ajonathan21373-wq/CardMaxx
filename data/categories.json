@@ -1,0 +1,219 @@
+{
+  "chipOrder": [
+    "dining",
+    "grocery",
+    "retail",
+    "gas",
+    "streaming",
+    "entertainment",
+    "utilities",
+    "airline",
+    "hotel",
+    "rideshare",
+    "other"
+  ],
+  "categories": {
+    "dining": {
+      "label": "Dining",
+      "mcc": "5812 / 5814",
+      "mccName": "Restaurants & fast food",
+      "words": [
+        "restaurant",
+        "restaurants",
+        "dinner",
+        "lunch",
+        "breakfast",
+        "brunch",
+        "food",
+        "coffee",
+        "cafe",
+        "bar",
+        "sushi",
+        "pizza",
+        "burger",
+        "burgers",
+        "tacos",
+        "takeout",
+        "fast food",
+        "dining",
+        "eat",
+        "wings",
+        "ramen",
+        "thai",
+        "mexican",
+        "italian",
+        "steakhouse"
+      ]
+    },
+    "grocery": {
+      "label": "Groceries",
+      "mcc": "5411",
+      "mccName": "Grocery stores & supermarkets",
+      "words": [
+        "grocery",
+        "groceries",
+        "supermarket",
+        "food shopping"
+      ]
+    },
+    "superstore": {
+      "label": "Superstores",
+      "mcc": "5310 / 5311",
+      "mccName": "Discount & department stores",
+      "words": [
+        "superstore"
+      ]
+    },
+    "wholesale": {
+      "label": "Warehouse clubs",
+      "mcc": "5300",
+      "mccName": "Wholesale clubs",
+      "words": [
+        "warehouse club",
+        "wholesale"
+      ]
+    },
+    "gas": {
+      "label": "Gas",
+      "mcc": "5541 / 5542",
+      "mccName": "Gas stations",
+      "words": [
+        "gas",
+        "fuel",
+        "gas station",
+        "fill up"
+      ]
+    },
+    "streaming": {
+      "label": "Streaming",
+      "mcc": "4899 / 5815",
+      "mccName": "Streaming & digital media",
+      "words": [
+        "streaming",
+        "subscription",
+        "music"
+      ]
+    },
+    "entertainment": {
+      "label": "Entertainment",
+      "mcc": "7832 / 7922 / 7996",
+      "mccName": "Movies, tickets & attractions",
+      "words": [
+        "movie",
+        "movies",
+        "concert",
+        "tickets",
+        "theme park",
+        "bowling",
+        "show",
+        "sports",
+        "game",
+        "theater",
+        "theatre",
+        "museum",
+        "zoo"
+      ]
+    },
+    "utilities": {
+      "label": "Utilities",
+      "mcc": "4900",
+      "mccName": "Electric, gas & water utilities",
+      "words": [
+        "electric",
+        "electricity",
+        "power bill",
+        "water bill",
+        "utility",
+        "utilities"
+      ]
+    },
+    "aa": {
+      "label": "American Airlines",
+      "mcc": "3001 / 4511",
+      "mccName": "Airline: American",
+      "words": []
+    },
+    "jetblue": {
+      "label": "JetBlue",
+      "mcc": "3174 / 4511",
+      "mccName": "Airline: JetBlue",
+      "words": []
+    },
+    "airline": {
+      "label": "Flights",
+      "mcc": "3000–3299 / 4511",
+      "mccName": "Airlines",
+      "words": [
+        "flight",
+        "flights",
+        "airline",
+        "airfare",
+        "plane ticket"
+      ]
+    },
+    "hotel": {
+      "label": "Hotels",
+      "mcc": "7011",
+      "mccName": "Hotels & lodging",
+      "words": [
+        "hotel",
+        "hotels",
+        "motel",
+        "resort",
+        "vacation rental",
+        "lodging"
+      ]
+    },
+    "rideshare": {
+      "label": "Rideshare",
+      "mcc": "4121",
+      "mccName": "Taxis & rideshare",
+      "words": [
+        "ride",
+        "rideshare",
+        "taxi",
+        "cab"
+      ]
+    },
+    "retail": {
+      "label": "Retail",
+      "mcc": "5311 / 5651 / 5732 / 5912",
+      "mccName": "Stores, clothing, electronics, pharmacies",
+      "words": [
+        "shopping",
+        "retail",
+        "store",
+        "stores",
+        "mall",
+        "clothes",
+        "clothing",
+        "shoes",
+        "electronics",
+        "furniture",
+        "home goods",
+        "makeup",
+        "beauty",
+        "pharmacy",
+        "drugstore",
+        "hardware",
+        "department store",
+        "sporting goods",
+        "toys",
+        "books",
+        "pet store",
+        "auto parts",
+        "dollar store"
+      ]
+    },
+    "other": {
+      "label": "Everything else",
+      "mcc": "varies",
+      "mccName": "General purchases",
+      "words": [
+        "online",
+        "other",
+        "everything else"
+      ]
+    }
+  }
+}

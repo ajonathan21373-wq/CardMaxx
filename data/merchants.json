@@ -1,0 +1,1393 @@
+{
+ "merchants": [
+  {
+   "name": "Chipotle",
+   "category": "dining"
+  },
+  {
+   "name": "McDonald's",
+   "category": "dining",
+   "aliases": [
+    "mcdonalds"
+   ]
+  },
+  {
+   "name": "Starbucks",
+   "category": "dining"
+  },
+  {
+   "name": "Dunkin'",
+   "category": "dining",
+   "aliases": [
+    "dunkin",
+    "dunkin donuts"
+   ]
+  },
+  {
+   "name": "Chick-fil-A",
+   "category": "dining",
+   "aliases": [
+    "chick fil a",
+    "chickfila"
+   ]
+  },
+  {
+   "name": "Taco Bell",
+   "category": "dining"
+  },
+  {
+   "name": "Wendy's",
+   "category": "dining",
+   "aliases": [
+    "wendys"
+   ]
+  },
+  {
+   "name": "Burger King",
+   "category": "dining"
+  },
+  {
+   "name": "Subway",
+   "category": "dining"
+  },
+  {
+   "name": "Panera Bread",
+   "category": "dining",
+   "aliases": [
+    "panera"
+   ]
+  },
+  {
+   "name": "Sweetgreen",
+   "category": "dining"
+  },
+  {
+   "name": "Cava",
+   "category": "dining"
+  },
+  {
+   "name": "Domino's",
+   "category": "dining",
+   "aliases": [
+    "dominos"
+   ]
+  },
+  {
+   "name": "Pizza Hut",
+   "category": "dining"
+  },
+  {
+   "name": "Olive Garden",
+   "category": "dining"
+  },
+  {
+   "name": "The Cheesecake Factory",
+   "category": "dining",
+   "aliases": [
+    "cheesecake factory"
+   ]
+  },
+  {
+   "name": "Texas Roadhouse",
+   "category": "dining"
+  },
+  {
+   "name": "Outback Steakhouse",
+   "category": "dining",
+   "aliases": [
+    "outback"
+   ]
+  },
+  {
+   "name": "Applebee's",
+   "category": "dining",
+   "aliases": [
+    "applebees"
+   ]
+  },
+  {
+   "name": "Chili's",
+   "category": "dining",
+   "aliases": [
+    "chilis"
+   ]
+  },
+  {
+   "name": "Buffalo Wild Wings",
+   "category": "dining",
+   "aliases": [
+    "bdubs",
+    "bww"
+   ]
+  },
+  {
+   "name": "Wingstop",
+   "category": "dining"
+  },
+  {
+   "name": "Five Guys",
+   "category": "dining"
+  },
+  {
+   "name": "Shake Shack",
+   "category": "dining"
+  },
+  {
+   "name": "Panda Express",
+   "category": "dining"
+  },
+  {
+   "name": "Raising Cane's",
+   "category": "dining",
+   "aliases": [
+    "raising canes",
+    "canes"
+   ]
+  },
+  {
+   "name": "Popeyes",
+   "category": "dining"
+  },
+  {
+   "name": "Jersey Mike's",
+   "category": "dining",
+   "aliases": [
+    "jersey mikes"
+   ]
+  },
+  {
+   "name": "Dutch Bros",
+   "category": "dining"
+  },
+  {
+   "name": "Pollo Tropical",
+   "category": "dining"
+  },
+  {
+   "name": "First Watch",
+   "category": "dining"
+  },
+  {
+   "name": "Cracker Barrel",
+   "category": "dining"
+  },
+  {
+   "name": "Firehouse Subs",
+   "category": "dining"
+  },
+  {
+   "name": "Culver's",
+   "category": "dining",
+   "aliases": [
+    "culvers"
+   ]
+  },
+  {
+   "name": "Zaxby's",
+   "category": "dining",
+   "aliases": [
+    "zaxbys"
+   ]
+  },
+  {
+   "name": "Steak 'n Shake",
+   "category": "dining",
+   "aliases": [
+    "steak n shake",
+    "steak and shake"
+   ]
+  },
+  {
+   "name": "Bojangles",
+   "category": "dining"
+  },
+  {
+   "name": "KFC",
+   "category": "dining",
+   "aliases": [
+    "kentucky fried chicken"
+   ]
+  },
+  {
+   "name": "Church's Chicken",
+   "category": "dining",
+   "aliases": [
+    "churchs"
+   ]
+  },
+  {
+   "name": "Arby's",
+   "category": "dining",
+   "aliases": [
+    "arbys"
+   ]
+  },
+  {
+   "name": "Sonic Drive-In",
+   "category": "dining",
+   "aliases": [
+    "sonic"
+   ]
+  },
+  {
+   "name": "Jack in the Box",
+   "category": "dining"
+  },
+  {
+   "name": "Whataburger",
+   "category": "dining"
+  },
+  {
+   "name": "In-N-Out",
+   "category": "dining",
+   "aliases": [
+    "in n out",
+    "innout"
+   ]
+  },
+  {
+   "name": "Checkers",
+   "category": "dining",
+   "aliases": [
+    "rallys"
+   ]
+  },
+  {
+   "name": "Smashburger",
+   "category": "dining"
+  },
+  {
+   "name": "Freddy's",
+   "category": "dining",
+   "aliases": [
+    "freddys"
+   ]
+  },
+  {
+   "name": "Qdoba",
+   "category": "dining"
+  },
+  {
+   "name": "Moe's Southwest Grill",
+   "category": "dining",
+   "aliases": [
+    "moes"
+   ]
+  },
+  {
+   "name": "Tijuana Flats",
+   "category": "dining"
+  },
+  {
+   "name": "Del Taco",
+   "category": "dining"
+  },
+  {
+   "name": "El Pollo Loco",
+   "category": "dining"
+  },
+  {
+   "name": "Jimmy John's",
+   "category": "dining",
+   "aliases": [
+    "jimmy johns"
+   ]
+  },
+  {
+   "name": "Potbelly",
+   "category": "dining"
+  },
+  {
+   "name": "Noodles & Company",
+   "category": "dining",
+   "aliases": [
+    "noodles and company",
+    "noodles"
+   ]
+  },
+  {
+   "name": "PDQ",
+   "category": "dining"
+  },
+  {
+   "name": "Pei Wei",
+   "category": "dining"
+  },
+  {
+   "name": "Mendocino Farms",
+   "category": "dining"
+  },
+  {
+   "name": "Just Salad",
+   "category": "dining"
+  },
+  {
+   "name": "Tropical Smoothie Cafe",
+   "category": "dining",
+   "aliases": [
+    "tropical smoothie"
+   ]
+  },
+  {
+   "name": "Smoothie King",
+   "category": "dining"
+  },
+  {
+   "name": "Jamba",
+   "category": "dining",
+   "aliases": [
+    "jamba juice"
+   ]
+  },
+  {
+   "name": "Papa John's",
+   "category": "dining",
+   "aliases": [
+    "papa johns"
+   ]
+  },
+  {
+   "name": "Little Caesars",
+   "category": "dining",
+   "aliases": [
+    "little caesar"
+   ]
+  },
+  {
+   "name": "Marco's Pizza",
+   "category": "dining",
+   "aliases": [
+    "marcos"
+   ]
+  },
+  {
+   "name": "MOD Pizza",
+   "category": "dining",
+   "aliases": [
+    "mod"
+   ]
+  },
+  {
+   "name": "Blaze Pizza",
+   "category": "dining",
+   "aliases": [
+    "blaze"
+   ]
+  },
+  {
+   "name": "Tim Hortons",
+   "category": "dining"
+  },
+  {
+   "name": "Dairy Queen",
+   "category": "dining",
+   "aliases": [
+    "dq"
+   ]
+  },
+  {
+   "name": "Krispy Kreme",
+   "category": "dining",
+   "note": "Dessert and bakery shops sometimes code as bakeries instead of restaurants, which can drop them to the base rate."
+  },
+  {
+   "name": "Crumbl",
+   "category": "dining",
+   "aliases": [
+    "crumbl cookies"
+   ],
+   "note": "Dessert and bakery shops sometimes code as bakeries instead of restaurants, which can drop them to the base rate."
+  },
+  {
+   "name": "Insomnia Cookies",
+   "category": "dining",
+   "note": "Dessert and bakery shops sometimes code as bakeries instead of restaurants, which can drop them to the base rate."
+  },
+  {
+   "name": "Baskin-Robbins",
+   "category": "dining",
+   "aliases": [
+    "baskin robbins"
+   ]
+  },
+  {
+   "name": "Cold Stone Creamery",
+   "category": "dining",
+   "aliases": [
+    "cold stone"
+   ]
+  },
+  {
+   "name": "Shipley Do-Nuts",
+   "category": "dining",
+   "aliases": [
+    "shipley"
+   ]
+  },
+  {
+   "name": "IHOP",
+   "category": "dining"
+  },
+  {
+   "name": "Denny's",
+   "category": "dining",
+   "aliases": [
+    "dennys"
+   ]
+  },
+  {
+   "name": "Waffle House",
+   "category": "dining"
+  },
+  {
+   "name": "Bob Evans",
+   "category": "dining"
+  },
+  {
+   "name": "Perkins",
+   "category": "dining"
+  },
+  {
+   "name": "Red Lobster",
+   "category": "dining"
+  },
+  {
+   "name": "LongHorn Steakhouse",
+   "category": "dining",
+   "aliases": [
+    "longhorn"
+   ]
+  },
+  {
+   "name": "Bonefish Grill",
+   "category": "dining",
+   "aliases": [
+    "bonefish"
+   ]
+  },
+  {
+   "name": "Carrabba's",
+   "category": "dining",
+   "aliases": [
+    "carrabbas"
+   ]
+  },
+  {
+   "name": "Red Robin",
+   "category": "dining"
+  },
+  {
+   "name": "BJ's Restaurant",
+   "category": "dining",
+   "aliases": [
+    "bjs restaurant",
+    "bjs brewhouse"
+   ]
+  },
+  {
+   "name": "Miller's Ale House",
+   "category": "dining",
+   "aliases": [
+    "millers ale house",
+    "ale house"
+   ]
+  },
+  {
+   "name": "Bahama Breeze",
+   "category": "dining"
+  },
+  {
+   "name": "Seasons 52",
+   "category": "dining"
+  },
+  {
+   "name": "Ruth's Chris Steak House",
+   "category": "dining",
+   "aliases": [
+    "ruths chris"
+   ]
+  },
+  {
+   "name": "The Capital Grille",
+   "category": "dining",
+   "aliases": [
+    "capital grille"
+   ]
+  },
+  {
+   "name": "P.F. Chang's",
+   "category": "dining",
+   "aliases": [
+    "pf changs"
+   ]
+  },
+  {
+   "name": "Benihana",
+   "category": "dining"
+  },
+  {
+   "name": "Kobe Japanese Steakhouse",
+   "category": "dining",
+   "aliases": [
+    "kobe"
+   ]
+  },
+  {
+   "name": "Texas de Brazil",
+   "category": "dining"
+  },
+  {
+   "name": "Fogo de Chão",
+   "category": "dining",
+   "aliases": [
+    "fogo de chao",
+    "fogo"
+   ]
+  },
+  {
+   "name": "Yard House",
+   "category": "dining"
+  },
+  {
+   "name": "Cheddar's",
+   "category": "dining",
+   "aliases": [
+    "cheddars"
+   ]
+  },
+  {
+   "name": "TGI Fridays",
+   "category": "dining",
+   "aliases": [
+    "fridays"
+   ]
+  },
+  {
+   "name": "Ruby Tuesday",
+   "category": "dining"
+  },
+  {
+   "name": "Hard Rock Cafe",
+   "category": "dining"
+  },
+  {
+   "name": "Golden Corral",
+   "category": "dining"
+  },
+  {
+   "name": "Chuy's",
+   "category": "dining",
+   "aliases": [
+    "chuys"
+   ]
+  },
+  {
+   "name": "Torchy's Tacos",
+   "category": "dining",
+   "aliases": [
+    "torchys"
+   ]
+  },
+  {
+   "name": "Twin Peaks",
+   "category": "dining"
+  },
+  {
+   "name": "Hooters",
+   "category": "dining"
+  },
+  {
+   "name": "4 Rivers Smokehouse",
+   "category": "dining",
+   "aliases": [
+    "4 rivers",
+    "four rivers"
+   ]
+  },
+  {
+   "name": "Dave & Buster's",
+   "category": "dining",
+   "aliases": [
+    "dave and busters",
+    "dave & busters"
+   ],
+   "note": "Dave & Buster's usually codes as a restaurant, but game card purchases may code as entertainment."
+  },
+  {
+   "name": "DoorDash",
+   "category": "dining",
+   "aliases": [
+    "door dash"
+   ],
+   "note": "Delivery apps usually code as restaurants, but not always. Check your first statement."
+  },
+  {
+   "name": "Uber Eats",
+   "category": "dining",
+   "aliases": [
+    "ubereats"
+   ],
+   "note": "Delivery apps usually code as restaurants, but not always. Check your first statement."
+  },
+  {
+   "name": "Grubhub",
+   "category": "dining",
+   "note": "Delivery apps usually code as restaurants, but not always. Check your first statement."
+  },
+  {
+   "name": "Publix",
+   "category": "grocery"
+  },
+  {
+   "name": "Kroger",
+   "category": "grocery"
+  },
+  {
+   "name": "Whole Foods",
+   "category": "grocery",
+   "aliases": [
+    "whole foods market"
+   ]
+  },
+  {
+   "name": "Trader Joe's",
+   "category": "grocery",
+   "aliases": [
+    "trader joes"
+   ]
+  },
+  {
+   "name": "Aldi",
+   "category": "grocery"
+  },
+  {
+   "name": "Winn-Dixie",
+   "category": "grocery",
+   "aliases": [
+    "winn dixie"
+   ]
+  },
+  {
+   "name": "Safeway",
+   "category": "grocery"
+  },
+  {
+   "name": "Wegmans",
+   "category": "grocery"
+  },
+  {
+   "name": "H-E-B",
+   "category": "grocery",
+   "aliases": [
+    "heb"
+   ]
+  },
+  {
+   "name": "Sprouts",
+   "category": "grocery"
+  },
+  {
+   "name": "The Fresh Market",
+   "category": "grocery",
+   "aliases": [
+    "fresh market"
+   ]
+  },
+  {
+   "name": "Instacart",
+   "category": "grocery",
+   "note": "Instacart can code as grocery or as a delivery service depending on the order."
+  },
+  {
+   "name": "Walmart",
+   "category": "superstore",
+   "note": "Walmart codes as a superstore, so grocery bonuses (Amex, Savor, JetBlue) do not apply here."
+  },
+  {
+   "name": "Target",
+   "category": "superstore",
+   "note": "Target codes as a superstore, so grocery bonuses (Amex, Savor, JetBlue) do not apply here."
+  },
+  {
+   "name": "Costco",
+   "category": "wholesale",
+   "note": "Costco warehouses in the U.S. only accept Visa credit cards, and none of your cards are Visa. Costco.com takes Mastercard and Discover."
+  },
+  {
+   "name": "Sam's Club",
+   "category": "wholesale",
+   "aliases": [
+    "sams club"
+   ]
+  },
+  {
+   "name": "BJ's Wholesale",
+   "category": "wholesale",
+   "aliases": [
+    "bjs"
+   ]
+  },
+  {
+   "name": "Shell",
+   "category": "gas"
+  },
+  {
+   "name": "Exxon",
+   "category": "gas",
+   "aliases": [
+    "exxonmobil",
+    "mobil"
+   ]
+  },
+  {
+   "name": "Chevron",
+   "category": "gas"
+  },
+  {
+   "name": "BP",
+   "category": "gas"
+  },
+  {
+   "name": "RaceTrac",
+   "category": "gas",
+   "aliases": [
+    "race trac"
+   ]
+  },
+  {
+   "name": "Wawa",
+   "category": "gas",
+   "note": "Wawa pumps code as gas, but inside-store food purchases may code as a convenience store."
+  },
+  {
+   "name": "Circle K",
+   "category": "gas"
+  },
+  {
+   "name": "Sunoco",
+   "category": "gas"
+  },
+  {
+   "name": "QuikTrip",
+   "category": "gas",
+   "aliases": [
+    "qt"
+   ]
+  },
+  {
+   "name": "Speedway",
+   "category": "gas"
+  },
+  {
+   "name": "Buc-ee's",
+   "category": "gas",
+   "aliases": [
+    "bucees",
+    "buc ees"
+   ]
+  },
+  {
+   "name": "Netflix",
+   "category": "streaming"
+  },
+  {
+   "name": "Hulu",
+   "category": "streaming"
+  },
+  {
+   "name": "Disney+",
+   "category": "streaming",
+   "aliases": [
+    "disney plus"
+   ]
+  },
+  {
+   "name": "Spotify",
+   "category": "streaming"
+  },
+  {
+   "name": "Max",
+   "category": "streaming",
+   "aliases": [
+    "hbo max",
+    "hbo"
+   ]
+  },
+  {
+   "name": "YouTube Premium",
+   "category": "streaming",
+   "aliases": [
+    "youtube tv",
+    "youtube"
+   ]
+  },
+  {
+   "name": "Apple Music",
+   "category": "streaming"
+  },
+  {
+   "name": "Peacock",
+   "category": "streaming"
+  },
+  {
+   "name": "Paramount+",
+   "category": "streaming",
+   "aliases": [
+    "paramount plus"
+   ]
+  },
+  {
+   "name": "AMC Theatres",
+   "category": "entertainment",
+   "aliases": [
+    "amc"
+   ]
+  },
+  {
+   "name": "Regal Cinemas",
+   "category": "entertainment",
+   "aliases": [
+    "regal"
+   ]
+  },
+  {
+   "name": "Ticketmaster",
+   "category": "entertainment"
+  },
+  {
+   "name": "StubHub",
+   "category": "entertainment"
+  },
+  {
+   "name": "Live Nation",
+   "category": "entertainment"
+  },
+  {
+   "name": "Walt Disney World",
+   "category": "entertainment",
+   "aliases": [
+    "disney world",
+    "magic kingdom",
+    "epcot"
+   ]
+  },
+  {
+   "name": "Universal Orlando",
+   "category": "entertainment",
+   "aliases": [
+    "universal studios",
+    "universal"
+   ]
+  },
+  {
+   "name": "SeaWorld",
+   "category": "entertainment",
+   "aliases": [
+    "sea world"
+   ]
+  },
+  {
+   "name": "Topgolf",
+   "category": "entertainment",
+   "aliases": [
+    "top golf"
+   ]
+  },
+  {
+   "name": "Duke Energy",
+   "category": "utilities"
+  },
+  {
+   "name": "FPL",
+   "category": "utilities",
+   "aliases": [
+    "florida power & light",
+    "florida power and light"
+   ]
+  },
+  {
+   "name": "Xfinity",
+   "category": "utilities",
+   "aliases": [
+    "comcast"
+   ],
+   "note": "Internet and cable bills often code as cable or telecom, not utilities, so the Discover 5% may not apply."
+  },
+  {
+   "name": "American Airlines",
+   "category": "aa",
+   "aliases": [
+    "aa",
+    "american"
+   ]
+  },
+  {
+   "name": "JetBlue",
+   "category": "jetblue",
+   "aliases": [
+    "jet blue"
+   ]
+  },
+  {
+   "name": "Delta",
+   "category": "airline"
+  },
+  {
+   "name": "United",
+   "category": "airline"
+  },
+  {
+   "name": "Southwest",
+   "category": "airline"
+  },
+  {
+   "name": "Spirit",
+   "category": "airline"
+  },
+  {
+   "name": "Frontier",
+   "category": "airline"
+  },
+  {
+   "name": "Marriott",
+   "category": "hotel"
+  },
+  {
+   "name": "Hilton",
+   "category": "hotel"
+  },
+  {
+   "name": "Hyatt",
+   "category": "hotel"
+  },
+  {
+   "name": "IHG",
+   "category": "hotel",
+   "aliases": [
+    "holiday inn"
+   ]
+  },
+  {
+   "name": "Airbnb",
+   "category": "hotel"
+  },
+  {
+   "name": "Uber",
+   "category": "rideshare",
+   "aliases": [
+    "uber rides"
+   ],
+   "note": "Add your Amex Gold to Uber to get the card's monthly Uber Cash. It covers rides and Uber Eats."
+  },
+  {
+   "name": "Lyft",
+   "category": "rideshare"
+  },
+  {
+   "name": "Amazon",
+   "category": "retail",
+   "aliases": [
+    "amazon.com"
+   ],
+   "note": "Amazon Fresh and Whole Foods orders can earn grocery rates. Regular Amazon.com orders earn the base rate."
+  },
+  {
+   "name": "Apple Store",
+   "category": "retail",
+   "aliases": [
+    "apple"
+   ]
+  },
+  {
+   "name": "Best Buy",
+   "category": "retail"
+  },
+  {
+   "name": "GameStop",
+   "category": "retail"
+  },
+  {
+   "name": "Micro Center",
+   "category": "retail"
+  },
+  {
+   "name": "eBay",
+   "category": "retail"
+  },
+  {
+   "name": "Etsy",
+   "category": "retail"
+  },
+  {
+   "name": "Shein",
+   "category": "retail"
+  },
+  {
+   "name": "Temu",
+   "category": "retail"
+  },
+  {
+   "name": "Wayfair",
+   "category": "retail"
+  },
+  {
+   "name": "Chewy",
+   "category": "retail"
+  },
+  {
+   "name": "Macy's",
+   "category": "retail",
+   "aliases": [
+    "macys"
+   ]
+  },
+  {
+   "name": "Kohl's",
+   "category": "retail",
+   "aliases": [
+    "kohls"
+   ]
+  },
+  {
+   "name": "Nordstrom",
+   "category": "retail"
+  },
+  {
+   "name": "Nordstrom Rack",
+   "category": "retail"
+  },
+  {
+   "name": "JCPenney",
+   "category": "retail",
+   "aliases": [
+    "jcp",
+    "jc penney"
+   ]
+  },
+  {
+   "name": "Dillard's",
+   "category": "retail",
+   "aliases": [
+    "dillards"
+   ]
+  },
+  {
+   "name": "TJ Maxx",
+   "category": "retail",
+   "aliases": [
+    "tjmaxx",
+    "t j maxx"
+   ]
+  },
+  {
+   "name": "Marshalls",
+   "category": "retail"
+  },
+  {
+   "name": "HomeGoods",
+   "category": "retail",
+   "aliases": [
+    "home goods"
+   ]
+  },
+  {
+   "name": "Ross",
+   "category": "retail",
+   "aliases": [
+    "ross dress for less"
+   ]
+  },
+  {
+   "name": "Burlington",
+   "category": "retail"
+  },
+  {
+   "name": "Five Below",
+   "category": "retail"
+  },
+  {
+   "name": "Dollar General",
+   "category": "retail"
+  },
+  {
+   "name": "Dollar Tree",
+   "category": "retail"
+  },
+  {
+   "name": "Ollie's",
+   "category": "retail",
+   "aliases": [
+    "ollies"
+   ]
+  },
+  {
+   "name": "Old Navy",
+   "category": "retail"
+  },
+  {
+   "name": "Gap",
+   "category": "retail"
+  },
+  {
+   "name": "Banana Republic",
+   "category": "retail"
+  },
+  {
+   "name": "H&M",
+   "category": "retail",
+   "aliases": [
+    "h and m",
+    "hm"
+   ]
+  },
+  {
+   "name": "Zara",
+   "category": "retail"
+  },
+  {
+   "name": "Uniqlo",
+   "category": "retail"
+  },
+  {
+   "name": "American Eagle",
+   "category": "retail",
+   "aliases": [
+    "ae",
+    "aerie"
+   ]
+  },
+  {
+   "name": "Abercrombie & Fitch",
+   "category": "retail",
+   "aliases": [
+    "abercrombie"
+   ]
+  },
+  {
+   "name": "Hollister",
+   "category": "retail"
+  },
+  {
+   "name": "Lululemon",
+   "category": "retail"
+  },
+  {
+   "name": "Nike",
+   "category": "retail"
+  },
+  {
+   "name": "Adidas",
+   "category": "retail"
+  },
+  {
+   "name": "Foot Locker",
+   "category": "retail"
+  },
+  {
+   "name": "DSW",
+   "category": "retail"
+  },
+  {
+   "name": "Famous Footwear",
+   "category": "retail"
+  },
+  {
+   "name": "Skechers",
+   "category": "retail"
+  },
+  {
+   "name": "Journeys",
+   "category": "retail"
+  },
+  {
+   "name": "Hot Topic",
+   "category": "retail"
+  },
+  {
+   "name": "Torrid",
+   "category": "retail"
+  },
+  {
+   "name": "Carter's",
+   "category": "retail",
+   "aliases": [
+    "carters"
+   ]
+  },
+  {
+   "name": "Sephora",
+   "category": "retail"
+  },
+  {
+   "name": "Ulta",
+   "category": "retail",
+   "aliases": [
+    "ulta beauty"
+   ]
+  },
+  {
+   "name": "Bath & Body Works",
+   "category": "retail",
+   "aliases": [
+    "bath and body works"
+   ]
+  },
+  {
+   "name": "Victoria's Secret",
+   "category": "retail",
+   "aliases": [
+    "victorias secret"
+   ]
+  },
+  {
+   "name": "CVS",
+   "category": "retail"
+  },
+  {
+   "name": "Walgreens",
+   "category": "retail"
+  },
+  {
+   "name": "Home Depot",
+   "category": "retail"
+  },
+  {
+   "name": "Lowe's",
+   "category": "retail",
+   "aliases": [
+    "lowes"
+   ]
+  },
+  {
+   "name": "Ace Hardware",
+   "category": "retail"
+  },
+  {
+   "name": "Harbor Freight",
+   "category": "retail"
+  },
+  {
+   "name": "IKEA",
+   "category": "retail"
+  },
+  {
+   "name": "Pottery Barn",
+   "category": "retail"
+  },
+  {
+   "name": "Crate & Barrel",
+   "category": "retail",
+   "aliases": [
+    "crate and barrel"
+   ]
+  },
+  {
+   "name": "Williams Sonoma",
+   "category": "retail"
+  },
+  {
+   "name": "The Container Store",
+   "category": "retail",
+   "aliases": [
+    "container store"
+   ]
+  },
+  {
+   "name": "Michaels",
+   "category": "retail"
+  },
+  {
+   "name": "Hobby Lobby",
+   "category": "retail"
+  },
+  {
+   "name": "Barnes & Noble",
+   "category": "retail",
+   "aliases": [
+    "barnes and noble"
+   ]
+  },
+  {
+   "name": "Staples",
+   "category": "retail"
+  },
+  {
+   "name": "Office Depot",
+   "category": "retail",
+   "aliases": [
+    "officemax"
+   ]
+  },
+  {
+   "name": "Dick's Sporting Goods",
+   "category": "retail",
+   "aliases": [
+    "dicks"
+   ]
+  },
+  {
+   "name": "Academy Sports",
+   "category": "retail",
+   "aliases": [
+    "academy"
+   ]
+  },
+  {
+   "name": "Bass Pro Shops",
+   "category": "retail",
+   "aliases": [
+    "bass pro"
+   ]
+  },
+  {
+   "name": "REI",
+   "category": "retail"
+  },
+  {
+   "name": "PetSmart",
+   "category": "retail"
+  },
+  {
+   "name": "Petco",
+   "category": "retail"
+  },
+  {
+   "name": "Tractor Supply",
+   "category": "retail"
+  },
+  {
+   "name": "AutoZone",
+   "category": "retail"
+  },
+  {
+   "name": "Advance Auto Parts",
+   "category": "retail",
+   "aliases": [
+    "advance auto"
+   ]
+  },
+  {
+   "name": "O'Reilly Auto Parts",
+   "category": "retail",
+   "aliases": [
+    "oreilly",
+    "o reilly"
+   ]
+  },
+  {
+   "name": "Kay Jewelers",
+   "category": "retail",
+   "aliases": [
+    "kay"
+   ]
+  },
+  {
+   "name": "Zales",
+   "category": "retail"
+  },
+  {
+   "name": "Pandora",
+   "category": "retail"
+  }
+ ]
+}
